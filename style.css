@@ -1,0 +1,30 @@
+body {
+    background-image: url("background.jpg");
+}
+
+* {
+    font-size: 18px !important;
+}
+
+.heading {
+    width: 100%;
+    margin: 0;
+    text-align: left;
+}
+
+.heading h2 {
+    display: inline;
+    color: #80ff00;
+}
+
+.heading button {
+    float: right;
+}
+
+.hdingimg {
+    width: 100%;
+}
+
+
+
+
