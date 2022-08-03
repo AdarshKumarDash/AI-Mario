@@ -25,6 +25,45 @@ body {
     width: 100%;
 }
 
+h4 {
+    bottom: 0;
+    margin: 0px;
+    position: fixed;
+    background-color: #8c8787;
+    width: 100%;
+    line-height: 2;
+    color: #fff;
+}
+
+h4 a {
+    text-decoration: none;
+    color: #f3ef12;
+    transition: 0.5s all;
+}
+
+h4 a:hover {
+    text-decoration: none;
+    color: coral;
+}
 
 
+.modal-dialog {
+    width: 90%;
+    text-align: center;
+}
 
+.jlar {
+    width: 45%;
+}
+
+.modal-header h3 {
+    font-size: 28px !important;
+    font-weight: 800;
+}
+
+video {
+    background-image: url("game_console.png");
+    background-size: cover;
+    background-position: center;
+    padding: 20px;
+}
